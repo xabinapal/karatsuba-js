@@ -1,0 +1,25 @@
+{
+  "name": "karatsuba-js",
+  "version": "1.0.0",
+  "description": "Karatsuba algorithm for fast multiplication of strings",
+  "main": "karatsuba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xabinapal/karatsuba-js.git"
+  },
+  "keywords": [
+    "karatsuba",
+    "algorithm",
+    "multiplication",
+    "integers"
+  ],
+  "author": "Xabier Napal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xabinapal/karatsuba-js/issues"
+  },
+  "homepage": "https://github.com/xabinapal/karatsuba-js#readme"
+}
