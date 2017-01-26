@@ -1,6 +1,6 @@
 {
   "name": "karatsuba-js",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Karatsuba algorithm for fast multiplication of strings",
   "main": "karatsuba.js",
   "scripts": {
